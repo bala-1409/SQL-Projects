@@ -16,3 +16,9 @@ The Data is from the Pizza Store regarding their Sales and Revenue.
  * The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name.
  * The Sales report is analysed to get further insights about sales and revenue.
  * By using SQL query commands, getting insights for the analysis report.
+## _Raf
+The Data is collected from Fast-food Restaurant about their Expenses in 2022.
+- The Expenses Data is collected for the year 2022 and has 601 records.
+- The data has various factors such as Date, Expenses Category, Amount, Discount, Final Amount after Discount, Paid and Carry Forward.
+- The data is analysed further to get insights about their expenses on external stores.
+- By using, Structured Query Language (SQL) query commands, getting insights for the Expenses Report.
